@@ -70,6 +70,7 @@ GEM
     unicode-display_width (1.7.0)
 
 PLATFORMS
+  universal-darwin-20
   x86_64-darwin-18
 
 DEPENDENCIES
@@ -86,4 +87,4 @@ DEPENDENCIES
   liquid-c
 
 BUNDLED WITH
-   2.2.16
+   2.2.25

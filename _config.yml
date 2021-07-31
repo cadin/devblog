@@ -8,27 +8,27 @@
 # bundle exec jekyll serve --livereload --drafts --profile
 
 # Site settings
-title:       '⌘I'
+title:       'Cadin’s Dev Blog'
 email:       ''
-description: 'Get&nbsp;Info'
-author:      'Matt&nbsp;Sephton'
+description: ''
+author:      '👨🏻‍🦲'
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://blog.gingerbeardman.com' # The base hostname & protocol for your site
-homepage:    'https://www.gingerbeardman.com' # The base hostname & protocol for your site
+url:         'http://blog.cadinbatrack.com' # The base hostname & protocol for your site
+homepage:    'http://www.cadinbatrack.com' # The base hostname & protocol for your site
 github:      ''
 instagram:   ''
 facebook:    ''
 
-google_analytics: 'G-JVMQWHYEWV'
+google_analytics: ''
 
 twitter:
-  username: gingerbeardman
+  username: cadin
   card: summary
 
 social:
-  name: Matt Sephton
+  name: Cadin Batrack
   links:
-    - https://twitter.com/gingerbeardman
+    - https://twitter.com/cadin
 
 # Jekyll specific
 
