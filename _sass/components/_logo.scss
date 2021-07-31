@@ -4,7 +4,8 @@
 
 .c-logo {
   &__link {
-    font-size: $font-size-larger;
+    font-size: $font-size-base;
+    font-weight: $font-weight-bolder;
     transition: $global-transition;
 
     span {
@@ -25,11 +26,23 @@
 }
 
 .c-byline {
-  font-size: $font-size-large;
+  font-size: $font-size-base;
   float: right;
+
+  
+  
 
   &__desc {
     // float: right;
     color: silver;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 0 0 0  1px;
+
+    &:hover {
+      text-decoration: none;
+      background-color: $color-light-gray;
+      
+    }
   }
 }
