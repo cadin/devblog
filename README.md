@@ -1,4 +1,7 @@
-# Get Info, a blog by Matt Sephton
+# Cadin's Dev Blog
+(for Playdate development)
+
+I copied this from Matt's fork of the Type theme: https://github.com/gingerbeardman/gingerbeardman.github.io.
 
 See https://github.com/ahmadajmi/type for details of the original version of this theme.
 
