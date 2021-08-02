@@ -13,10 +13,6 @@ fields:
   type: tag_list
   default: []
   label: tags
-- name: nouns
-  type: tag_list
-  default: []
-  label: nouns
 - name: comments
   type: text
   config:
