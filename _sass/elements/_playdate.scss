@@ -1,52 +1,53 @@
-body.playdate {
-  background-color: $bg-color-playdate;
+// body.playdate {
+body {
+  // background-color: $bg-color-playdate;
 
   .c-content {
     overflow-x: unset;
   }
 
-  *::selection {
-    background: $color-white;
-  }
+  // *::selection {
+  //   background: $color-white;
+  // }
 
-  a,
-  .tag-filter span,
-  .c-post-card__date,
-  .c-post-card__title,
-  .c-post-card .c-post-card__title,
-  .c-post-card .c-post-card__date,
-  .c-post__date,
-  .c-tags a {
-    color: $color-text;
-  }
+  // a,
+  // .tag-filter span,
+  // .c-post-card__date,
+  // .c-post-card__title,
+  // .c-post-card .c-post-card__title,
+  // .c-post-card .c-post-card__date,
+  // .c-post__date,
+  // .c-tags a {
+  //   color: $color-text;
+  // }
 
-  a:hover,
-  .c-post-card:hover,
-  .c-post-card__title:hover,
-  .c-post-card:hover .c-post-card__title,
-  .c-tags a:hover {
-    color: $color-white;
-    background-color: transparent;
-  }
+  // a:hover,
+  // .c-post-card:hover,
+  // .c-post-card__title:hover,
+  // .c-post-card:hover .c-post-card__title,
+  // .c-tags a:hover {
+  //   color: $color-white;
+  //   background-color: transparent;
+  // }
 
-  .c-logo__link span,
-  .c-byline__desc,
-  .c-byline__desc a {
-    color: $color-text;
-  }
+  // .c-logo__link span,
+  // .c-byline__desc,
+  // .c-byline__desc a {
+  //   color: $color-text;
+  // }
 
-  code,
-  .highlighter-rouge {
-    background-color: transparent;
-  }
+  // code,
+  // .highlighter-rouge {
+  //   background-color: transparent;
+  // }
 
-  .c-post-card,
-  .c-header__inner {
-    border-color: $color-text;
-  }
+  // .c-post-card,
+  // .c-header__inner {
+  //   border-color: $color-text;
+  // }
 
-  blockquote {
-    color: $color-darker;
-    border-color: $color-darker;
-  }
+  // blockquote {
+  //   color: $color-darker;
+  //   border-color: $color-darker;
+  // }
 }
