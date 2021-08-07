@@ -7,7 +7,7 @@ featured: false
 carousel: ""
 ---
 
-Despite the fact that I've built a few pixel art games in my life, spent a few years actively developing a [pixel art editor](www.pickleeditor.com), and even wrote an [article about creating retro-style games](https://gamedevelopment.tutsplus.com/articles/going-old-school-making-games-with-a-retro-aesthetic--gamedev-3567), I've never felt that confident in my pixel art skills. The fact that the Playdate screen is only 1-bit (black or white), made creating art for it even more daunting.
+Despite the fact that I've built a few pixel art games in my life, spent a few years actively developing a [pixel art editor](http://www.pickleeditor.com), and even wrote an [article about creating retro-style games](https://gamedevelopment.tutsplus.com/articles/going-old-school-making-games-with-a-retro-aesthetic--gamedev-3567), I've never felt that confident in my pixel art skills. The fact that the Playdate screen is only 1-bit (black or white), made creating art for it even more daunting.
 
 I had struggled through some sketches and false starts in [Aseprite](https://www.aseprite.org), when one day I happened into a chat with [Neven](https://twitter.com/mrgan) from Panic about comic art. I sent a link to my [Walter Hale book](http://www.walterhale.com) and a few minutes later Neven posted a photo of one of my drawings on the Playdate.
 
