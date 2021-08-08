@@ -21,4 +21,4 @@ Here's a photo of the final painting I made in that class:
 
 ![Painting of The Botanist](/images/posts/2021-07/botanistPainting.png)
 
-I like the vibrant colors in the painting, but I think the character works great in black and white too, so he's should be a good fit for the Playdate comic. I already have a few stories in mind for him. I'm not sure if I'll incorporate the sidekick characters too. That might be something that gets added over time in future volumes.
+I like the vibrant colors in the painting, but I think the character works great in black and white too, so he should be a good fit for the Playdate comic. I already have a few stories in mind for him. I'm not sure if I'll incorporate the sidekick characters too. That might be something that gets added over time in future volumes.
