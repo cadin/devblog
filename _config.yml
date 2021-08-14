@@ -8,18 +8,18 @@
 # bundle exec jekyll serve --livereload --drafts --profile
 
 # Site settings
-title:       'Cadin’s Dev Blog'
-email:       ''
-description: ''
-author:      '👨🏻‍🦲'
-baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'http://blog.cadinbatrack.com' # The base hostname & protocol for your site
-homepage:    'http://www.cadinbatrack.com' # The base hostname & protocol for your site
-github:      ''
-instagram:   ''
-facebook:    ''
+title: "Cadin’s Dev Blog"
+email: ""
+description: ""
+author: "👨🏻‍🦲"
+baseurl: "" # The subpath of your site, e.g. /blog
+url: "https://devblog.cadinbatrack.com" # The base hostname & protocol for your site
+homepage: "http://www.cadinbatrack.com" # The base hostname & protocol for your site
+github: ""
+instagram: ""
+facebook: ""
 
-google_analytics: ''
+google_analytics: ""
 
 twitter:
   username: cadin
@@ -32,7 +32,7 @@ social:
 
 # Jekyll specific
 
-markdown:  kramdown
+markdown: kramdown
 permalink: pretty
 
 sass:
@@ -52,24 +52,22 @@ exclude:
   - Gemfile.lock
 
 # Paginate
-paginate:  10
+paginate: 10
 paginate_path: "/page/:num/"
 
 # Tags
-tag_page_dir:         tag
-tag_page_layout:      tag_page
-tag_permalink_style:  pretty
+tag_page_dir: tag
+tag_page_layout: tag_page
+tag_permalink_style: pretty
 
 # Defaults
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "_pages"
     values:
       permalink: /:basename:output_ext
-  -
-    scope:
+  - scope:
       path: "files/**"
     values:
       sitemap: false
