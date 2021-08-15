@@ -1,14 +1,14 @@
 ---
 layout: post
 tags:
-- love2d
-- tools
-- programming
+  - love2d
+  - tools
+  - code
 title: Playdate Emulation in LÖVE
 featured: false
-carousel: ''
-
+carousel: ""
 ---
+
 I created a small template project for previewing my [Playdate](https://play.date/) prototypes built with [LÖVE](https://love2d.org/) in a Playdate-like environment.
 
 I don't yet have access to the Playdate SDK, so I'm not trying to mimic how any of that actually works. I just want a way to view my prototypes on the Playdate screen, so I can see them in the context of the device. This includes showing the project on top of an image of the Playdate console, and rendering everything in the style of the device's 1-bit LCD screen.
@@ -44,5 +44,3 @@ This project is free for anyone to use on GitHub, though it will hopefully becom
 
 Find the repo here:  
 **[love-playdate-emulation](https://github.com/cadin/love-playdate-emulation)**
-
-
