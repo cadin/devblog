@@ -18,5 +18,5 @@ group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'jekyll-tagging'
   gem 'liquid'
-  gem 'liquid-c'
+  # gem 'liquid-c'
 end
