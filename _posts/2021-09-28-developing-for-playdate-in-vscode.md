@@ -21,8 +21,10 @@ I finally found an old post on the Playdate Discord where [Dovuro](https://twitt
 
 ## Old Friend
 
-Now that I'm back in VS Code, I'm surprised to find that autocomplete for the Playdate SDK actually seems better than in Nova. In Nova, typing `playdate.graphics.` will bring up autocomplete suggestions for _everything_ in the SDK, instead of just the things in the "graphics" module. VS Code does this properly, and also provides suggestions for code in my own modules, which I didn't seem to be getting in Nova.
+Now that I'm back in VS Code, I'm surprised to find that autocomplete for the Playdate SDK actually seems better than in Nova[^1]. In Nova, typing `playdate.graphics.` will bring up autocomplete suggestions for _everything_ in the SDK, instead of just the things in the "graphics" module. VS Code does this properly, and also provides suggestions for code in my own modules, which I didn't seem to be getting in Nova.
 
 _And_ I can finally once again select a keyword in my code and see all other instances highlighted. I never realized how much I rely on that feature until it was missing. It seems strange that Nova doesn't have this. Perhaps I just couldn't find the setting to enable it.
 
 I do look forward to trying Nova again once it's gotten a bit more mature.
+
+[^1]: Turns out this nice autocomplete I'm getting is coming from the [Lua extension](https://marketplace.visualstudio.com/items?itemName=sumneko.lua), not VS Code itself.
