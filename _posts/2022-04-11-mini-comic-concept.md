@@ -21,7 +21,7 @@ I sketched out an idea for a short story featuring my botanist character. I trie
 
 This will be a standalone comic. It doesn't connect to the main story, except that it features the same main character.
 
-The story I came up with starts with a light bulb burning out in the botanist's outpost. Instead of changing the bulb, he climbs down into the seed bank, finds a packet of seeds for Glimmering Vine, and plants them with a spritz of Wonder Grow. After the vine grows, the player must pilot a robotic bee to pollinate the flowers. Once pollinated, the vine sprouts many tiny glowing lights which reilluminate the station.
+The story I came up with starts with a light bulb burning out in the botanist's outpost. Instead of changing the bulb, he climbs down into the seed bank, finds a packet of seeds for Glimmering Vine, and plants them with a spritz of Wonder Grow. After the vine grows, the player must pilot a robotic bee to pollinate the flowers. Once pollinated, the vine sprouts many tiny glowing lights which re-illuminate the station.
 
 It's not quite as concise as I wanted, but I'm not sure how much shorter I could make it while still showing off the capabilities of Panels and telling a coherent story.
 
