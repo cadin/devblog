@@ -31,6 +31,11 @@ img[src$="#playdate"] {
   }
 }
 
+img[src$="#outlined"] {
+  border: 1px solid #322f28;
+  border-radius: 4px;
+}
+
 img[src$="#compare"] {
   float: left;
   margin-right: double($base-spacing-unit);
