@@ -2,7 +2,7 @@
 layout: post
 tags:
 title: Speech Bubble Workflow
-date: 2025-05-27 09:00:00 -0700
+date: 2025-08-03 19:00:00 -0700
 ---
 
 My previous Panels comics ([_The Botanist_](https://play.date/games/the-botanist/), [_To Dust_](https://play.date/games/to-dust/), and [_Illumination_](https://cadinb.itch.io/illumination)) were all created with very minimal dialog. All the text in those comics appeared on in-game screens or signage, so I never had to think about how to handle character dialog. _Fauna_, on the other hand, has a much more complex storyline that relies on the characters speaking to each other frequently to communicate what’s happening and move the plot forward
@@ -36,7 +36,7 @@ It would be easy enough to draw a rounded rectangle behind the text, but how sho
 ![Illustration of points defining the tail shape](/images/posts/2025-08/bubblePoints.png#playdate "I need to define these three points and the two control points for the curves")
 {:.tofigure}
 
-I could expose all those variables in the layer definitions (at minimum: three anchor points and two control points for the curves), but how would I know what values to use? Figuring it out through trial and error in the Playdate simulator would be to slow to be practical (waiting to build and run between each change). I’d probably need to draw the bubble in Photoshop or some other tool so I could take the measurements of where I wanted to add the points. At that point, I'd already have the bubble drawn and positioned with the text in it. If I’m doing that, I might as well just export it as an image and skip all the dynamic stuff entirely.
+I could expose all those variables in the layer definitions (at minimum: three anchor points and two control points for the curves), but how would I know what values to use? Figuring it out through trial and error in the Playdate simulator would be too slow to be practical (waiting to build and run between each change). I’d probably need to draw the bubble in Photoshop or some other tool so I could take the measurements of where I wanted to add the points. At that point, I'd already have the bubble drawn and positioned with the text in it. If I’m doing that, I might as well just export it as an image and skip all the dynamic stuff entirely.
 
 ## Current Workflow
 
@@ -63,9 +63,9 @@ There are also some unexpected artistic constraints that come from working on su
 
 I've found I need to be careful with my panel compositions and character placement to ensure that there is enough room for a speech bubble in the scene (if required). This can be kind of tricky because I don't know the exact size of the bubble when I'm creating the drawings on my iPad (the text gets added in a later step done on my computer).
 
-I also need to be really particular about how I write the dialog, so the bubbles don't get to big to fit in the panel. I'm finding I often end up rewriting dialog to make it fit, or just to make the word breaks more visually pleasing.
+I also need to be really particular about how I write the dialog, so the bubbles don't get too big to fit in the panel. I'm finding I often end up rewriting dialog to make it fit, or just to make the word breaks more visually pleasing.
 
-The other thing I've noticed is that it feels strange if the bubbles have to much parallax. They start to drift too much and can overlap the character, or just feel disconnected from the speaker. I still like to have them separate a little bit to add depth, but usually keep it within ±0.05 of the character's parallax value.
+The other thing I've noticed is that it feels strange if the bubbles have too much parallax. They start to drift too much and can overlap the character, or just feel disconnected from the speaker. I still like to have them separate a little bit to add depth, but usually keep it within ±0.05 of the character's parallax value.
 
 ## A Better Way?
 
